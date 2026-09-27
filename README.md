@@ -87,7 +87,7 @@ Building real-world software and AI systems while continuously improving my engi
 
 🔗 LinkedIn: https://linkedin.com/in/mohitkumar-cse/
 
-💻 GitHub: https://github.com/mohitkumar-cse
+💻 GitHub: https://github.com/imohitkumarcse
 
 ---
 
